@@ -1,0 +1,123 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/simulated/floor/airless/caution/east,
+/area/dmm_suite/clear_area)
+"e" = (
+/obj/table/auto,
+/obj/machinery/computer3/generic/personal,
+/turf/simulated/floor/airless/caution/corner/ne,
+/area/dmm_suite/clear_area)
+"f" = (
+/turf/simulated/floor/airless/caution/west,
+/area/dmm_suite/clear_area)
+"m" = (
+/obj/decal/cleanable/dirt/dirt5,
+/turf/simulated/floor/airless/caution/west,
+/area/dmm_suite/clear_area)
+"p" = (
+/obj/stool/chair/office,
+/obj/decal/cleanable/dirt/dirt2,
+/turf/simulated/floor/airless/caution/east,
+/area/dmm_suite/clear_area)
+"s" = (
+/obj/decal/fakeobjects/shuttleweapon/base,
+/turf/simulated/floor/airless/caution/corner,
+/area/dmm_suite/clear_area)
+"v" = (
+/obj/item/paper/safehouse/delivery_note{
+	desc = "A Test Report Card, Seems Something Went Wrong.";
+	name = "Engine Test 53";
+	info = "<b>Seems That the engine is working correctly, there might be some erro- rest of the card is burnt off.</b>
+			<br>We tried to deliver your package today.
+			<br>
+			<br>-------------------------------------------
+			<br>
+			<br>Name: <span style='font-family: Dancing Script, cursive;'>Jean Rockefeller</span>
+			<br>Tracking number:  <span style='font-family: Dancing Script, cursive;'>9114-9010-7574-2352</span>
+			<br>
+			<br>-------------------------------------------
+			<br>Today we called to deliver your parcels, they were left:
+			<br>
+			<br>(  ) With your neighbour at:
+			<br>(  ) In your shed/outbuilding
+			<br>(  ) Secure front hangar
+			<br>(  ) Affixed to the hull of your ship/station.
+			<br>(X) Returned to mail depot
+			<br>(  ) Other:
+			<br>
+			<br>-------------------------------------------
+			<br>We were unable to deliver your parcels because:
+			<br>
+			<br>(  ) The parcels required a signature
+			<br>(  ) There was no safe place to leave your parcel
+			<br>(X) Other: <span style='font-family: Dancing Script, cursive;'>Unable to find specified drop-off point</span>
+			<br>
+			<br>-------------------------------------------
+			<br>Additional information<br>
+			<br><span style='font-family: Dancing Script, cursive;'> Drop off point was specified as "Private hangar near beacon,
+			<br> pull greeter's leg". Instructions are unclear, driver was able to locate the beacon but no greeter was present.
+			<br> Additionally, driver does not know any good jokes.</span>
+			<br>
+			<br>-------------------------------------------
+			<br>
+			<br><b>TO FIND OUT HOW TO GET YOUR PARCEL PLEASE
+			<br>CONTACT A COMPANY REP</b>
+			<br>
+			"
+	},
+/obj/decal/cleanable/dirt/dirt3,
+/obj/decal/fakeobjects/lightbulb_broken,
+/turf/simulated/floor/airless/caution/corner/sw,
+/area/dmm_suite/clear_area)
+"y" = (
+/obj/storage/closet/radiation,
+/turf/simulated/floor/airless/caution/corner/nw,
+/area/dmm_suite/clear_area)
+"z" = (
+/obj/decal/cleanable/blood/gibs,
+/obj/machinery/light/emergency,
+/obj/decal/fakeobjects/lightbulb_broken,
+/turf/simulated/floor/airless/caution/corner/se,
+/area/dmm_suite/clear_area)
+"C" = (
+/obj/decal/fakeobjects/skeleton/decomposed_corpse,
+/obj/decal/cleanable/dirt/jen,
+/turf/simulated/floor/airless/caution/south,
+/area/dmm_suite/clear_area)
+"F" = (
+/obj/decal/fakeobjects/shuttlethruster,
+/turf/simulated/floor/airless/caution/corner,
+/area/dmm_suite/clear_area)
+"G" = (
+/turf/simulated/floor/airless/caution/north,
+/area/dmm_suite/clear_area)
+"P" = (
+/obj/machinery/light/emergency,
+/turf/simulated/floor/airless/caution/corner,
+/area/dmm_suite/clear_area)
+"V" = (
+/obj/decal/cleanable/dirt/jen,
+/turf/simulated/floor/airless/caution/west,
+/area/dmm_suite/clear_area)
+
+(1,1,1) = {"
+y
+m
+f
+V
+v
+"}
+(2,1,1) = {"
+G
+P
+s
+F
+C
+"}
+(3,1,1) = {"
+e
+p
+a
+a
+z
+"}
